@@ -60,3 +60,4 @@ console.log(total) // Expected value: 6
 For more information on functions and how they are used in JS, check out the MDN docs.
 
 [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+# intro-to-markdown-lab
